@@ -10,5 +10,5 @@ export default {
 const Template = (args) => <HTMLRenderer {...args} />;
 export const index = Template.bind({});
 index.args = {
-  html: text.sections.opening.description[0],
+  html: text.sections.opening.postscript[4],
 };
