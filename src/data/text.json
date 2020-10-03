@@ -1,0 +1,55 @@
+{
+  "title": "Waifu Catalog",
+  "sections": {
+    "opening": {
+      "title": "Basic Rules:",
+      "description": [
+        "First, pick a starting world. Depending on that world’s intensity, measured on a scale from 1 to 10, you’ll be assigned a number of credits with which to make the rest of your purchases. Intensities are weighed based on the power of the typical combatants, the average danger level to ordinary people living in that world, and especially the actual cost of what might be needed to survive in that world. Active apocalyptic scenarios may raise a world’s intensity by one or even two tiers. Specific worlds and their intensity ratings are listed in the second page of the <a href=\"https://docs.google.com/spreadsheets/d/e/2PACX-1vRY8R1QpF5c_R3UESoYXYscEVJ2AayfCLJ7QVxU3xjfwqKfZU8HnNVsTKwFOX9J7DX8MPM1tp06el9G/pubhtml\" title=\"Waifu Catalog\">spreadsheet</a>. If your world is not on the list, compare it to the ones that are and use your best judgement.",
+        ""
+      ]
+    }
+  },
+  "data": {
+    "world_budget": {
+      "rows": 11,
+      "columns": {
+        "intensity_level": {
+          "title": "Intensity Level",
+          "values": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, "11 (see below)"]
+        },
+        "intensity_title": {
+          "title": "Intensity Title",
+          "values": [
+            "The Thing That Should Not Be",
+            "Sad But True",
+            "Turn the Page",
+            "No Remorse",
+            "Moth Into Flame",
+            "Trapped Under Ice",
+            "Disposable Heroes",
+            "All Nightmare Long",
+            "Frayed Ends of Sanity",
+            "To Live is to Die",
+            "One"
+          ]
+        },
+        "budget": {
+          "title": "Budget (Credits)",
+          "values": [
+            35,
+            55,
+            85,
+            140,
+            225,
+            365,
+            590,
+            955,
+            1545,
+            2500,
+            "1 Tier 11 ticket"
+          ]
+        }
+      }
+    }
+  }
+}
