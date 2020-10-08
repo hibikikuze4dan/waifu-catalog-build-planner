@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/waifu-catalog-build-planner/static/css/main.5f361e03.chunk.css",
+    "main.js": "/waifu-catalog-build-planner/static/js/main.8e675548.chunk.js",
+    "main.js.map": "/waifu-catalog-build-planner/static/js/main.8e675548.chunk.js.map",
+    "runtime-main.js": "/waifu-catalog-build-planner/static/js/runtime-main.f9a4c4d8.js",
+    "runtime-main.js.map": "/waifu-catalog-build-planner/static/js/runtime-main.f9a4c4d8.js.map",
+    "static/js/2.1a017a4a.chunk.js": "/waifu-catalog-build-planner/static/js/2.1a017a4a.chunk.js",
+    "static/js/2.1a017a4a.chunk.js.map": "/waifu-catalog-build-planner/static/js/2.1a017a4a.chunk.js.map",
+    "index.html": "/waifu-catalog-build-planner/index.html",
+    "precache-manifest.a12cbebd1a812e9feb18eee849f443d7.js": "/waifu-catalog-build-planner/precache-manifest.a12cbebd1a812e9feb18eee849f443d7.js",
+    "service-worker.js": "/waifu-catalog-build-planner/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/waifu-catalog-build-planner/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.1a017a4a.chunk.js.LICENSE.txt": "/waifu-catalog-build-planner/static/js/2.1a017a4a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9a4c4d8.js",
+    "static/js/2.1a017a4a.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.8e675548.chunk.js"
+  ]
+}
