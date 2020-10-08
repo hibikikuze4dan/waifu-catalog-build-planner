@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "56a9cb65d4be07856bf2ab6db41b9140",
+    "revision": "194868f9032feb1cc5e1dfdc605fcbe3",
     "url": "/waifu-catalog-build-planner/index.html"
   },
   {
-    "revision": "a5c98e534c1df2266185",
+    "revision": "cd93b593c7f6b3eb2818",
     "url": "/waifu-catalog-build-planner/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/waifu-catalog-build-planner/static/js/2.1a017a4a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a5c98e534c1df2266185",
-    "url": "/waifu-catalog-build-planner/static/js/main.8e675548.chunk.js"
+    "revision": "cd93b593c7f6b3eb2818",
+    "url": "/waifu-catalog-build-planner/static/js/main.770979d9.chunk.js"
   },
   {
     "revision": "d7bf8adc8fecc0d03f3c",

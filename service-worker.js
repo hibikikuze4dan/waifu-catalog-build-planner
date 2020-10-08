@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/waifu-catalog-build-planner/precache-manifest.a12cbebd1a812e9feb18eee849f443d7.js"
+  "/waifu-catalog-build-planner/precache-manifest.190d34fa9b44dd8f8579aec91bed0923.js"
 );
 
 self.addEventListener('message', (event) => {
